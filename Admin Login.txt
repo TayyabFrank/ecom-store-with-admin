@@ -1,0 +1,4 @@
+Admin Login
+
+Email:          admin@ecom.com
+Passw:          adminpassword
